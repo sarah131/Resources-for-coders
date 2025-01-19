@@ -195,9 +195,10 @@ A curated list of amazing tools for developers to enhance productivity, streamli
 - [Combining React and D3.js](https://wattenberger.com/blog/react-and-d3)
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
-## Contributing
+# Do follow and Refer 
+For projects : [Github](https://github.com/sarah131/)
 
-Feel free to submit a pull request with additional tools or improvements. All contributions are welcome!
+For coding skills & Problem solving : [Youtube](https://youtube.com/@theengineeringcodex?si=5o6xpI8eqK7-2fQf)
 
 ## License
 
